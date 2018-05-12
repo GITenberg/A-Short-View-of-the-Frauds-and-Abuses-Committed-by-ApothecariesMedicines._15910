@@ -1,0 +1,38 @@
+_repo: A-Short-View-of-the-Frauds-and-Abuses-Committed-by-ApothecariesMedicines._15910
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merret, Christopher
+    aliases:
+    - Merrettus, Christophorus
+    - Merret, C. (Christopher)
+    - Merrett, Christopher
+    birthdate: 1614
+    deathdate: 1695
+    gutenberg_agent_id: '6372'
+    url: http://www.gutenberg.org/2009/agents/6372
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2005-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RS'
+- !lcsh 'Pharmacy -- England'
+- !lcsh 'Pharmacists'
+title: 'A Short View of the Frauds and Abuses Committed by Apothecaries
+
+  As well in Relation to Patients, as Physicians: And Of the
+
+  only Remedy thereof by Physicians making their own
+
+  Medicines.'
+url: http://www.gutenberg.org/ebooks/15910
